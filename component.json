@@ -1,12 +1,12 @@
 {
   "name": "Appnima",
   "description": "JavaScript Appnima Client",
-  "version": "0.5.03",
+  "version": "0.6.21",
   "homepage": "http://appnima.com",
   "author": {
     "name": "Tapquo S.L. (@tapquo)",
     "site": "http://tapquo.com"},
   "main": ["appnima.js"],
-  "keywords": [ "client", "backend", "PAAS" ],
+  "keywords": [ "appnima", "client", "javascript", "LAAS" ],
   "license": [{"type": "GPLv3"}]
 }
