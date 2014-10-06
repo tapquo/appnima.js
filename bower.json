@@ -1,0 +1,13 @@
+{
+  "name": "appnima",
+  "version": "0.10.6",
+  "main": "appnima.js",
+  "homepage": "http://tapquo.com",
+  "license": "MIT",
+  "authors": [
+    "Javi Jimenez", "Javi Jimenez <javi@tapquo.com>"],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tapquo/appnima.js.git"
+  }
+}
