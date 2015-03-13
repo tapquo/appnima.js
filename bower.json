@@ -1,6 +1,6 @@
 {
   "name"    : "appnima",
-  "version" : "2.3.13",
+  "version" : "2.3.13b",
   "main"    : "appnima.js",
   "homepage": "http://tapquo.com",
   "license" : "MIT",
